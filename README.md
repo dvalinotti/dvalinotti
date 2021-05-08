@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dan Valinotti</h1>
 <h3 align="center">Full Stack Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dan-valinotti" alt="dan-valinotti" /></a> </p>
-
 - 🔭 I’m currently working on [RescueGroup Mobile App](https://github.com/dvalinotti/RescueGroupApp)
 
 - 🌱 I’m currently learning **Vue 3, NestJS, and GraphQL**
@@ -28,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dan-valinotti&show_icons=true&locale=en&layout=compact" alt="dan-valinotti" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dan-valinotti&show_icons=true&locale=en" alt="dan-valinotti" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dan-valinotti" alt="dan-valinotti" /></a> </p>
